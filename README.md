@@ -19,3 +19,7 @@ How can I bypass a WAF?
 - Junk Characters Technique
 - Wildcard Obfuscation Technique
 
+
+Open Reirection
+
+XSS
