@@ -23,3 +23,6 @@ How can I bypass a WAF?
 Open Reirection
 
 XSS
+
+
+Best Reports for every Bug
