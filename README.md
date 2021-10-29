@@ -26,3 +26,11 @@ XSS
 
 
 Best Reports for every Bug
+
+
+
+- SQL Injection
+- XXE
+- Template Injections
+- Open ports: 
+   - https://zero.bs/juicy-open-ports-for-recon-and-pentests.html
