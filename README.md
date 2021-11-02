@@ -2,6 +2,8 @@
 
 Choose your way 
 
+You think you've found a mistake, but you don't know what to do. With this tool I want to help you. 
+
 What do you do with a 403 status? 
 
 What do you do if header injection is possible? 
