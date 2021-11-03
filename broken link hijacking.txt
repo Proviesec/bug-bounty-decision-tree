@@ -1,0 +1,2 @@
+- External JS File Hijacking
+- Content Hijacking
