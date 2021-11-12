@@ -4,11 +4,11 @@ Choose your way
 
 You think you've found a mistake, but you don't know what to do. With this tool I want to help you. 
 
-What do you do with a 403 status? 
+# What do you do with a 403 status? 
 
-What do you do if header injection is possible? 
+# What do you do if header injection is possible? 
 
-What do you do when inputs are filtered? 
+# What do you do when inputs are filtered? 
 
 How can I bypass a WAF?
 - Case Toggling Technique
@@ -24,12 +24,10 @@ How can I bypass a WAF?
 
 Open Reirection
 
-XSS
+# XSS Bypass
 
 
 Best Reports for every Bug
-
-
 
 - SQL Injection
 - CVE
