@@ -12,7 +12,7 @@ You think you've found a mistake, but you don't know what to do. With this tool 
 # What do you do when inputs are filtered? 
 - Bypass Examples
 
-How can I bypass a WAF?
+# How can I bypass a WAF?
 - Case Toggling Technique
 - URL Encoding Technique
 - Unicode Technique
@@ -24,7 +24,7 @@ How can I bypass a WAF?
 - Wildcard Obfuscation Technique
 
 
-Open Reirection
+# Open Redirects 
 
 # XSS Bypass
 
